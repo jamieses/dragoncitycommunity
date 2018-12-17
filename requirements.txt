@@ -4,3 +4,4 @@ aiohttp
 websockets
 chardet
 yarl<1.2
+os
