@@ -4,7 +4,6 @@ from discord.ext import commands
 import os
 import requests
 
-token = "NTI0MDIzODg1NjE2Nzc1MTcz.DviH7w.BNkFQMsAscCm8pB1nPyGBkPFxeE"
 bot = commands.Bot(command_prefix="!")
 
 @bot.event
