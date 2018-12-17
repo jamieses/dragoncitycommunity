@@ -34,4 +34,4 @@ async def botinfo(ctx):
     print("aa")
 
 
-bot.run(token)
+bot.run(os.getenv("token"))
